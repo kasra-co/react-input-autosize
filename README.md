@@ -1,3 +1,5 @@
+**This will be deleted soon** because it was merged upstream. Update your dependencies to point to the parent at https://github.com/JedWatson/react-input-autosize
+
 React-Input-Autosize
 ====================
 
